@@ -4,5 +4,8 @@
   I made this
 }
 2021-6-15 {
-  Did lots of stuff, implemented custom font, started working on BRAIN (simple Bot interactions and Responces Artificial Intelligence Network) (ext: `.brain`)
+  Did lots of stuff, implemented custom font, started working on my basic AI
+}
+2021-6-17 {
+  Added ‘Metrics’ to profile, did some more stuff
 }
